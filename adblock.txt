@@ -1,1 +1,18 @@
 cafe.daum.net###header
+www.dramacool9.co##.below_video
+toonkor.bz##.text-center hidden-xs
+gall.dcinside.com##.stickyunit
+gall.dcinside.com##.right_content
+gall.dcinside.com###trc_wrapper_44074
+gall.dcinside.com##.trc_rbox thumbnails-d trc-content-sponsored
+gall.dcinside.com###taboola-below-article-thumbnails
+gall.dcinside.com##.trc_related_container trc_spotlight_widget trc_elastic trc_elastic_thumbnails-d
+newtoki57.com##.basic-banner row row-10
+newtoki57.com##.row row-15
+newtoki57.com##.board-tail-banner
+newtoki57.com##.board-tail-banner
+newtoki57.com##.basic-banner row row-10
+newtoki57.com##.basic-banner row row-10
+newtoki57.com##.board-tail-banner
+newtoki57.com##.basic-banner row row-10
+newtoki57.com##.board-tail-banner
